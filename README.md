@@ -26,9 +26,7 @@ Repositórios voltados a **atividades acadêmicas, práticas de sistemas, pesqui
 
 ---
 
-## 📊 GitHub Stats
-
-![Seu GitHub stats](https://github-readme-stats.vercel.app/api?username=iconoclasst&show_icons=true&theme=radical)
+## 📊 Linguagens
 
 ---
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=iconoclasst&layout=compact&theme=radical)  
