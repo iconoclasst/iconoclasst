@@ -8,19 +8,20 @@ Tópicos de pesquisa: **Deep Learning, Privacidade Diferencial, Cybersegurança,
 
 Habilidades
 
-```
+```  
 > Linux, ServidoresAWS
 > Virtualização
 > Redes
 > Shell Script
-> Sistemasepositórios voltados a **atividades acadêmicas, práticas de sistemas, pesquisa e experimentação**.
+> Sistemas
 
--
--```-
+```  
 
-## 📫 Como me encontrar
-- 🌐 LinkedIn: *(coloque aqui, se tiver)*  
-- 📧 Email: *(opcional)*
+Repositórios voltados a **atividades acadêmicas, práticas de sistemas, pesquisa e experimentação**.
+
+## 📫 Informações
+- 🌐 LinkedIn: *https://www.linkedin.com/in/davi-b-yada-da-silva-8758432a3/*  
+- 📧 Lattes: *http://lattes.cnpq.br/7589625811803131*
 
 ---
 
