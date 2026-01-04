@@ -26,11 +26,4 @@ Repositórios voltados a **atividades acadêmicas, práticas de sistemas, pesqui
 
 ---
 
-## 📊 Linguagens
-
----
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=iconoclasst&layout=compact&theme=radical)  
-
----  
-
 
