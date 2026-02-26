@@ -3,18 +3,17 @@ learning to use git and github
 # Davi Yada
 
 Formado em **Redes de Computadores** pela **UFC – Campus Quixadá**.  
-Interesse em **Redes, sistemas e pesquisa científica**.  
 Tópicos de pesquisa: **Deep Learning, Privacidade Diferencial, Cybersegurança, Internet das Coisas**  
 
 ## 📊 Habilidades
 
 ```  
-> Linux, Servidores
+> Servidores Linux e Windows
+> Shell Script
 > AWS
 > Virtualização
-> Redes
-> Shell Script
-> Sistemas
+> Serviços e Configuração de Redes 
+> Python 
 
 ```  
 
