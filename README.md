@@ -25,4 +25,4 @@ Repositórios voltados a **atividades acadêmicas, práticas de sistemas, pesqui
 
 ---
 
-
+![Snake animation](https://github.com/iconoclasst/iconoclasst/blob/output/github-contribution-grid-snake.svg)  
