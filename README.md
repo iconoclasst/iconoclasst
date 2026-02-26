@@ -23,6 +23,5 @@ Repositórios voltados a **atividades acadêmicas, práticas de sistemas, pesqui
 - 🌐 LinkedIn: *https://www.linkedin.com/in/davi-b-yada-da-silva-8758432a3/*  
 - 📧 Lattes: *http://lattes.cnpq.br/7589625811803131*
 
----
+--- 
 
-![Snake animation](https://github.com/iconoclasst/iconoclasst/blob/output/github-contribution-grid-snake.svg)  
