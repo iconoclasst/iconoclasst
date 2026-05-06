@@ -5,18 +5,6 @@ learning to use git and github
 Formado em **Redes de Computadores** pela **UFC – Campus Quixadá**.  
 Tópicos de pesquisa: **Deep Learning, Privacidade Diferencial, Cybersegurança, Internet das Coisas**  
 
-## 📊 Habilidades
-
-```  
-> Servidores Linux e Windows
-> Shell Script
-> AWS
-> Virtualização
-> Serviços e Configuração de Redes 
-> Python 
-
-```  
-
 Repositórios voltados a **atividades acadêmicas, práticas de sistemas, pesquisa e experimentação**.
 
 ## 📫 Informações
