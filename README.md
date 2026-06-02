@@ -7,7 +7,7 @@ Tópicos de pesquisa: **Deep Learning, Privacidade Diferencial, Cybersegurança,
 
 Repositórios voltados a **atividades acadêmicas, práticas de sistemas, pesquisa e experimentação**.
 
-## 📫 Informações
+## Informações
 - 🌐 LinkedIn: *https://www.linkedin.com/in/davi-b-yada-da-silva-8758432a3/*  
 - 📧 Lattes: *http://lattes.cnpq.br/7589625811803131*
 
